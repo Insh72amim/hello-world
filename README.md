@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+There is nothing special here but it can be special.
+
